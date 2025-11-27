@@ -2,7 +2,7 @@ import React from 'react'
 import tecnologias from '@/app/data/tecnologias.json';
 import Image from 'next/image';
 
-export default function page() {
+export default function TecnologiasPage() {
   return (
     <div>
       <h2>Tecnologias Exploradas</h2>

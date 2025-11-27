@@ -11,7 +11,7 @@ const caracteristicas = [
         'Comunidade Ativa e Popularidade.'
     ]
 
-export default function page() {
+export default function CaracteristicasPage() {
   return (
     <div>
         <h2>Características do React e Next.js</h2>
